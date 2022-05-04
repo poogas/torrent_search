@@ -1,0 +1,2 @@
+aiohttp
+hurry.filesize
